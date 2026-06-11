@@ -8,7 +8,7 @@ description: 命理学（八字/紫微斗数）推理和答题。当用户提问
 ## 文件结构
 
 ```
-E:\ming_li_skill\
+<skill_dir>/
 ├── SKILL.md              ← 本文件（使用说明 + 命理知识 + 推理指南）
 ├── REPORT.md             ← 完整测试报告 + 全球排行榜
 ├── tools/
@@ -43,7 +43,9 @@ E:\ming_li_skill\
 ### 步骤 2：调用 `analyze_question` 获取排盘数据
 
 ```python
-import sys; sys.path.insert(0, r'E:\ming_li_skill')
+import sys, os
+# 将 skill 根目录加入 Python 路径（SKILL.md 所在目录）
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from tools import HybridMingliToolkit
 import json
 
@@ -720,7 +722,7 @@ result = htk.analyze_question(
 ### 3.1 跑纯规则引擎（无 LLM，0.02 秒）
 
 ```bash
-python E:\ming_li_skill\predict_mingli.py --batch data.json --output result.json
+python predict_mingli.py --batch <data_path> --output result.json
 ```
 
 ### 3.2 Agent 逐题测试（干净测试）
@@ -728,7 +730,7 @@ python E:\ming_li_skill\predict_mingli.py --batch data.json --output result.json
 **必须在全新会话中执行，确保无上下文污染。**
 
 步骤：
-1. 读取 benchmark 题目文件 `F:\牛逼模型\MingLi-Bench\data\data.json`
+1. 读取 benchmark 题目文件（如 `data.json`）
 2. 随机抽取 N 题（**记录题目 ID**）
 3. 对每题调用 `analyze_question`（**不要读取答案字段**）
 4. 阅读排盘数据，推理出答案
@@ -737,10 +739,10 @@ python E:\ming_li_skill\predict_mingli.py --batch data.json --output result.json
 示例脚本（生成无答案的测试题）：
 
 ```python
-import json, random, sys
-sys.path.insert(0, r'E:\ming_li_skill')
+import json, random, sys, os
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 
-with open(r'F:\牛逼模型\MingLi-Bench\data\data.json', 'r', encoding='utf-8') as f:
+with open(r'<benchmark_data_path>', 'r', encoding='utf-8') as f:
     data = json.load(f)
 
 random.seed(<NEW_SEED>)
@@ -781,7 +783,7 @@ answers = {
     'ftb_xxxx': 'A',  # 你推理的答案
     ...
 }
-with open(r'F:\牛逼模型\MingLi-Bench\data\data.json', 'r', encoding='utf-8') as f:
+with open(r'<benchmark_data_path>', 'r', encoding='utf-8') as f:
     data = json.load(f)
 correct = sum(1 for q in data['questions'] if q['id'] in answers and answers[q['id']] == q['answer'])
 print('正确: %d/%d = %.1f%%' % (correct, len(answers), correct/len(answers)*100))
