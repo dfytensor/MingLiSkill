@@ -1,0 +1,402 @@
+[
+  {
+    "id": "ftb_0029",
+    "question_number": 29,
+    "original_number": 29,
+    "case_id": "case_6",
+    "birth_info": {
+      "raw": "男命：公历1983年11月1日（亥时） 出生地点：中国台湾",
+      "gender": "男",
+      "year": 1983,
+      "month": 11,
+      "day": 1,
+      "hour": 21,
+      "minute": 0,
+      "country": "中国",
+      "location": "台湾",
+      "calendar_type": "solar"
+    },
+    "question": "命主个性及特色原因？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "精神亢奋常坐不住，像个过动儿"
+      },
+      {
+        "letter": "B",
+        "text": "经常运动，体力好且有强健体魄"
+      },
+      {
+        "letter": "C",
+        "text": "喜好交友，但真心朋友寥寥无几"
+      },
+      {
+        "letter": "D",
+        "text": "待人和善且严以律己，寛以待人"
+      }
+    ],
+    "answer": "C",
+    "category": "性格",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0007",
+    "question_number": 7,
+    "original_number": 7,
+    "case_id": "case_2",
+    "birth_info": {
+      "raw": "女命：阳历1981年5月26日凌晨02:17 出生地点：中国香港",
+      "gender": "女",
+      "year": 1981,
+      "month": 5,
+      "day": 26,
+      "hour": 2,
+      "minute": 17,
+      "country": "中国",
+      "location": "香港",
+      "calendar_type": "solar"
+    },
+    "question": "这命何时候结婚？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2005年结婚"
+      },
+      {
+        "letter": "B",
+        "text": "2006年先签纸结婚，2007年摆酒"
+      },
+      {
+        "letter": "C",
+        "text": "2012年结婚，旅行外地签纸"
+      },
+      {
+        "letter": "D",
+        "text": "2009年结婚"
+      }
+    ],
+    "answer": "B",
+    "category": "婚姻",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0071",
+    "question_number": 71,
+    "original_number": 31,
+    "case_id": "case_15",
+    "birth_info": {
+      "raw": "女命：西历2002年6月1日早上08:30辰时  出生于香港",
+      "gender": "女",
+      "year": 2002,
+      "month": 6,
+      "day": 1,
+      "hour": 8,
+      "minute": 30,
+      "country": "中国",
+      "location": "香港",
+      "calendar_type": "solar"
+    },
+    "question": "此命出身的贫或富？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "孤儿院长大"
+      },
+      {
+        "letter": "B",
+        "text": "贫穷家庭出身"
+      },
+      {
+        "letter": "C",
+        "text": "小康之家出身"
+      },
+      {
+        "letter": "D",
+        "text": "大富贵家庭出身"
+      }
+    ],
+    "answer": "B",
+    "category": "家庭",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0063",
+    "question_number": 63,
+    "original_number": 23,
+    "case_id": "case_13",
+    "birth_info": {
+      "raw": "女命：西历1978年04月05日17：00-19：00酉时  台湾生",
+      "gender": "女",
+      "year": 1978,
+      "month": 4,
+      "day": 5,
+      "hour": 18,
+      "minute": 0,
+      "country": "中国",
+      "location": "台湾",
+      "calendar_type": "solar"
+    },
+    "question": "命主何时结婚？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2006"
+      },
+      {
+        "letter": "B",
+        "text": "2007"
+      },
+      {
+        "letter": "C",
+        "text": "2008"
+      },
+      {
+        "letter": "D",
+        "text": "2009"
+      }
+    ],
+    "answer": "C",
+    "category": "婚姻",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0058",
+    "question_number": 58,
+    "original_number": 18,
+    "case_id": "case_12",
+    "birth_info": {
+      "raw": "男命，西历1956年3月11日巳时，malaysia出生",
+      "gender": "男",
+      "year": 1956,
+      "month": 3,
+      "day": 11,
+      "hour": 9,
+      "minute": 0,
+      "country": "malaysia",
+      "location": "malaysia",
+      "calendar_type": "solar"
+    },
+    "question": "命主婚姻状况？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "已婚，无儿女"
+      },
+      {
+        "letter": "B",
+        "text": "已婚，育2男1女"
+      },
+      {
+        "letter": "C",
+        "text": "早年结婚，晚年离婚"
+      },
+      {
+        "letter": "D",
+        "text": "未婚"
+      }
+    ],
+    "answer": "A",
+    "category": "婚姻",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0036",
+    "question_number": 36,
+    "original_number": 36,
+    "case_id": "case_8",
+    "birth_info": {
+      "raw": "男命公历1981年6月17日（戌时）出生地点：中国香港",
+      "gender": "男",
+      "year": 1981,
+      "month": 6,
+      "day": 17,
+      "hour": 19,
+      "minute": 0,
+      "country": "中国",
+      "location": "香港",
+      "calendar_type": "solar"
+    },
+    "question": "命主出生时的家庭环境如何？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "家境错误"
+      },
+      {
+        "letter": "B",
+        "text": "不过不失"
+      },
+      {
+        "letter": "C",
+        "text": "小康之家"
+      },
+      {
+        "letter": "D",
+        "text": "富裕家庭"
+      }
+    ],
+    "answer": "C",
+    "category": "家庭",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0027",
+    "question_number": 27,
+    "original_number": 27,
+    "case_id": "case_6",
+    "birth_info": {
+      "raw": "男命：公历1983年11月1日（亥时） 出生地点：中国台湾",
+      "gender": "男",
+      "year": 1983,
+      "month": 11,
+      "day": 1,
+      "hour": 21,
+      "minute": 0,
+      "country": "中国",
+      "location": "台湾",
+      "calendar_type": "solar"
+    },
+    "question": "命主学历及工作为何？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "只有高职毕业，在市场摆摊赚钱"
+      },
+      {
+        "letter": "B",
+        "text": "大学毕业，目前在小公司当助理"
+      },
+      {
+        "letter": "C",
+        "text": "硕士毕业，大学担任高级研究员"
+      },
+      {
+        "letter": "D",
+        "text": "博士毕业，上市公司担任工程师"
+      }
+    ],
+    "answer": "D",
+    "category": "学业",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0140",
+    "question_number": 140,
+    "original_number": 20,
+    "case_id": "case_28",
+    "birth_info": {
+      "raw": "男命：西元1993年4月8日23:34子时，新加坡出生",
+      "gender": "男",
+      "year": 1993,
+      "month": 4,
+      "day": 8,
+      "hour": 23,
+      "minute": 34,
+      "country": "singapore",
+      "location": "新加坡",
+      "calendar_type": "solar"
+    },
+    "question": "命主抑郁症状最严重的年份？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "2002"
+      },
+      {
+        "letter": "B",
+        "text": "2016"
+      },
+      {
+        "letter": "C",
+        "text": "2018"
+      },
+      {
+        "letter": "D",
+        "text": "2024"
+      }
+    ],
+    "answer": "B",
+    "category": "健康",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0023",
+    "question_number": 23,
+    "original_number": 23,
+    "case_id": "case_5",
+    "birth_info": {
+      "raw": "男命：公历1985年6月29日18时32分（酉时）出生地点：malaysia",
+      "gender": "男",
+      "year": 1985,
+      "month": 6,
+      "day": 29,
+      "hour": 18,
+      "minute": 32,
+      "country": "malaysia",
+      "location": "malaysia",
+      "calendar_type": "solar"
+    },
+    "question": "2009年发生何事？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "和黑道人物的女人发生关系，被追杀"
+      },
+      {
+        "letter": "B",
+        "text": "和朋友创业，被股东诈骗"
+      },
+      {
+        "letter": "C",
+        "text": "中彩票，获得十数万现金"
+      },
+      {
+        "letter": "D",
+        "text": "发生车祸受重伤，在医院数月"
+      }
+    ],
+    "answer": "B",
+    "category": "事业",
+    "has_answer": true
+  },
+  {
+    "id": "ftb_0152",
+    "question_number": 152,
+    "original_number": 32,
+    "case_id": "case_31",
+    "birth_info": {
+      "raw": "女命：西历1988年2月15日16:50申时，台湾出生",
+      "gender": "女",
+      "year": 1988,
+      "month": 2,
+      "day": 15,
+      "hour": 16,
+      "minute": 50,
+      "country": "中国",
+      "location": "台湾",
+      "calendar_type": "solar"
+    },
+    "question": "命主大学时期读什么科系？",
+    "options": [
+      {
+        "letter": "A",
+        "text": "音乐"
+      },
+      {
+        "letter": "B",
+        "text": "金融"
+      },
+      {
+        "letter": "C",
+        "text": "美术"
+      },
+      {
+        "letter": "D",
+        "text": "理工"
+      }
+    ],
+    "answer": "C",
+    "category": "学业",
+    "has_answer": true
+  }
+]
