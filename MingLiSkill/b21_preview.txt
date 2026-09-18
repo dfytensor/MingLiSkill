@@ -1,0 +1,2 @@
+keys: ['question_id', 'person_id', 'birth', 'gender', 'question', 'options', 'answer']
+{"question_id": "P025-Q1", "person_id": "male_19540318_P025", "birth": {"year": 1954, "month": 3, "day": 18, "hour": 15, "minute": 0, "place": "中国大陆", "raw": "1954 甲午年，西历1954年3月18日申时（农历二月十四日申时）"}, "gender": "male", "question": "命主财运?", "options": ["A 普通打工仔", "B 与朋友长期合作，得对方助力而成功致富", "C 财源广，但暴起暴跌，自己亦多挥霍", "D 守财奴，而且不喜交际，故财源未广"], "answer": "C"}

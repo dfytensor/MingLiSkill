@@ -1,0 +1,31 @@
+=== 1. ZiweiToolkit.paipan ===
+status: OK
+keys: ['success', '出生信息', '性别', '年干支', '生肖', '命宫', '身宫', '五行局', '十二宫']
+has palace data: YES
+raw output (first 500 chars): {"success": true, "出生信息": "1990年6月15日12时", "性别": "男", "年干支": "庚午", "生肖": "马", "命宫": {"地支": "丑", "位置索引": 1}, "身宫": "命宫", "五行局": "土五局", "十二宫": {"命宫": {"宫位地支": "丑", "主星": ["太阳", "太阴"], "十二长生": "绝"}, "兄弟": {"宫位地支": "寅", "主星": ["贪狼"], "十二长生": "胎"}, "夫妻": {"宫位地支": "卯", "主星": ["天机", "巨门"], "十二长生": "养"}, "子女": {"宫位地支": "辰", "主星": ["紫微", "天相"], "十二长生": "长生"}, "财帛": {"宫位地支": "巳", "主星": ["天梁"], "十二长生": "沐浴"}, "疾厄": {"宫位地支": "午", "主星": ["七杀"], "十二长生": "冠带"}, "迁移": {"宫位地支": "未", "主星": [], "十二长生": "临官"}, "仆役"
+
+=== 2. analyze_palace(命宫, [紫微,天府]) ===
+output (first 400 chars): {"success": true, "宫位": "命宫", "主管范畴": "性格、外貌、一生总体运势", "所含星曜": ["紫微", "天府"], "星曜属性": {"紫微": {"属性": "帝星", "吉凶": "吉"}, "天府": {"属性": "令星", "吉凶": "吉"}}}
+
+=== 3. analyze_career ===
+output (first 300 chars): {"success": true, "官禄宫星曜": ["武曲", "七杀"], "命宫星曜": ["紫微"], "事业特质": ["武曲(领导型)", "紫微(领导型)"], "领导型星曜": ["武曲", "紫微"], "开创型星曜": [], "支援型星曜": []}
+
+=== 4. LiuYaoToolkit.cast_hexagram ===
+output (first 400 chars): {"success": true, "本卦": "大过", "卦序": 28, "上卦": "兑", "下卦": "兑", "变卦": "颐", "变卦序": 27, "六爻": [{"爻位": 1, "value": 8, "type": "阳", "changing": false}, {"爻位": 2, "value": 8, "type": "阳", "changing": false}, {"爻位": 3, "value": 7, "type": "阴", "changing": false}, {"爻位": 4, "value": 6, "type": "阳", "changing": true}, {"爻位": 5, "value": 8, "type": "阳", "changing": false}, {"爻位": 6, "value": 7, "type": "阴", 
+
+=== 5. analyze_hexagram(乾为天, 事业) ===
+output (first 400 chars): {"success": true, "卦名": "乾为天", "问题类型": "事业", "象": "未收录", "吉凶": "未知", "含义": "待查"}
+
+=== 6. QiMenToolkit.build_qimen_pan ===
+status: True
+keys: ['success', '时间', '日干支', '节气', '局数', '阴阳遁', '值符', '九宫布局']
+output (first 300 chars): {"success": true, "时间": "2024-1-15 10时", "日干支": "戊寅", "节气": "小寒", "局数": 7, "阴阳遁": "阳遁", "值符": "戊", "九宫布局": {"1": {"九星": "天禽", "八门": "伤门", "八神": "玄武", "宫位": 1}, "2": {"九星": "天心", "八门": "杜门", "八神": "九地", "宫位": 2}, "3": {"九星": "天柱", "八门": "景门", "八神": "九天", "宫位": 3}, "4": {"九星": "天任", "八门": "死门", "八神": 
+
+=== 7. MeiHuaToolkit.cast_meihua ===
+output (first 300 chars): {"success": true, "上卦": "艮", "上卦五行": "土", "上卦象": "山", "下卦": "震", "下卦五行": "木", "下卦象": "雷", "动爻": 1, "上卦数": 7, "下卦数": 4}
+
+=== 8. LiuRenToolkit.build_liuren_pan ===
+output (first 300 chars): {"success": true, "日干支": "戊寅", "时辰": "巳", "月将": "丑", "天盘": ["丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥", "子"], "地盘": ["子", "丑", "寅", "卯", "辰", "巳", "午", "未", "申", "酉", "戌", "亥"], "四课": [{"name": "日干阳神", "upper": "午", "lower": "巳", "relation": "bihe"}, {"name": "日干阴神", "upper": "卯", "lower"
+
+=== 9. BaziToolkit available methods ===
+['analyze_cai_xing', 'analyze_career', 'analyze_dayun', 'analyze_guan_sha', 'analyze_health', 'analyze_huoyuan', 'analyze_liunian', 'analyze_liuri', 'analyze_liuyue', 'analyze_marriage', 'analyze_wealth', 'analyze_yin_shou', 'check_chong_he', 'find_shensha', 'ganzhi_query', 'paipan', 'register']

@@ -1,0 +1,12 @@
+家庭: 9 wrong / 15 total (60%) ids=ftb_0144,ftb_0130,ftb_0089,ftb_0121,ftb_0043,ftb_0135,ftb_0010,ftb_0119,ftb_0071
+婚姻: 7 wrong / 33 total (21%) ids=ftb_0097,ftb_0102,ftb_0007,ftb_0099,ftb_0101,ftb_0074,ftb_0077
+事业: 6 wrong / 17 total (35%) ids=ftb_0014,ftb_0068,ftb_0062,ftb_0061,ftb_0149,ftb_0016
+性格: 5 wrong / 11 total (45%) ids=ftb_0056,ftb_0021,ftb_0132,ftb_0086,ftb_0147
+健康: 5 wrong / 14 total (36%) ids=ftb_0113,ftb_0126,ftb_0116,ftb_0049,ftb_0003
+学业: 4 wrong / 7 total (57%) ids=ftb_0057,ftb_0082,ftb_0072,ftb_0025
+子女: 3 wrong / 3 total (100%) ids=ftb_0052,ftb_0064,ftb_0065
+财运: 2 wrong / 9 total (22%) ids=ftb_0053,ftb_0109
+外貌: 1 wrong / 2 total (50%) ids=ftb_0155
+灾劫: 1 wrong / 2 total (50%) ids=ftb_0137
+运势: 1 wrong / 1 total (100%) ids=ftb_0158
+官非: 1 wrong / 1 total (100%) ids=ftb_0093

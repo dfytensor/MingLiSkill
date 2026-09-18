@@ -1,0 +1,25 @@
+=== Pipeline Correction Potential ===
+Total wrong: 96
+
+[STEP 10 案例线]
+  Has same-chart siblings: 96/96 (100%)
+  Same-category sibling correct: 9
+  → Auto-fixable by 案例线: 9 questions
+
+[rules_suggestion]
+  Rules suggestion correct: 21
+
+=== Projected accuracy after pipeline ===
+  Before: 63/159 = 39.6%
+  After 案例线 fix: 72/159 = 45.3%
+
+=== Fixable questions ===
+  ftb_0014 [事业] was=D → fix=C (real=C)
+  ftb_0028 [财运] was=A → fix=D (real=D)
+  ftb_0061 [事业] was=C → fix=B (real=B)
+  ftb_0062 [事业] was=B → fix=C (real=C)
+  ftb_0097 [婚姻] was=B → fix=A (real=A)
+  ftb_0098 [婚姻] was=D → fix=A (real=A)
+  ftb_0106 [婚姻] was=D → fix=B (real=B)
+  ftb_0117 [家庭] was=D → fix=C (real=C)
+  ftb_0119 [家庭] was=C → fix=D (real=D)

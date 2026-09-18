@@ -1,0 +1,26 @@
+total iztro cases: 32
+=== case_id: case_1 ===
+chineseDate: 甲寅 戊辰 己亥 壬申
+time: 申时
+fiveElementsClass: 金四局
+zodiac: 虎
+palaces: 12
+  仆役: major=['紫微', '天府'] minor=['文昌', '禄存'] brightness=[('紫微', '旺'), ('天府', '庙')]
+  迁移: major=['太阴'] minor=['地空', '擎羊'] brightness=[('太阴', '陷')]
+  疾厄: major=['贪狼'] minor=[] brightness=[('贪狼', '庙')]
+  财帛: major=['巨门'] minor=[] brightness=[('巨门', '旺')]
+  子女: major=['廉贞', '天相'] minor=[] brightness=[('廉贞', '平'), ('天相', '庙')]
+  夫妻: major=['天梁'] minor=['左辅', '右弼', '天钺', '地劫'] brightness=[('天梁', '旺')]
+  兄弟: major=['七杀'] minor=['天马'] brightness=[('七杀', '庙')]
+  命宫: major=['天同'] minor=['火星'] brightness=[('天同', '平')]
+  父母: major=['武曲'] minor=[] brightness=[('武曲', '庙')]
+  福德: major=['太阳'] minor=['铃星'] brightness=[('太阳', '陷')]
+  田宅: major=['破军'] minor=['文曲'] brightness=[('破军', '庙')]
+  官禄: major=['天机'] minor=['天魁', '陀罗'] brightness=[('天机', '陷')]
+  star all fields: ['name', 'type', 'scope', 'brightness', 'mutagen']
+
+=== Our chart ===
+birth: 1974-4-28 16时 男
+our 四柱: {"年柱": "甲寅", "月柱": "戊辰", "日柱": "己亥", "时柱": "壬申"}
+our 日主: 己(土) 身强
+our ziwei: {"命宫主星": [], "身宫": "财帛", "五行局": "水二局", "官禄宫主星": ["天相"], "夫妻宫主星": ["武曲", "破军"], "财帛宫主星": ["天府"], "疾厄宫主星": ["天机", "太阴"], "子女宫主星": ["太阳"], "迁移宫主星": ["紫微", "贪狼"], "父母宫主星": [], "田宅宫主星": ["天梁"]}

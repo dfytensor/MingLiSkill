@@ -1,0 +1,18 @@
+ftb_0043 家庭   A->B X
+ftb_0001 健康   B->A X
+ftb_0025 学业   C->B X
+ftb_0106 婚姻   D->B X
+ftb_0122 婚姻   D->D OK
+ftb_0020 家庭   B->D X
+ftb_0086 性格   B->D X
+ftb_0145 性格   B->B OK
+ftb_0090 财运   C->A X
+ftb_0049 健康   C->D X
+ftb_0096 婚姻   B->B OK
+ftb_0105 健康   B->B OK
+ftb_0060 健康   A->C X
+ftb_0022 婚姻   D->B X
+ftb_0006 学业   B->B OK
+R8: 5/15 = 33.3%
+神煞引导题: 3/8
+POOLED R1-R8: 50/117 = 42.7%

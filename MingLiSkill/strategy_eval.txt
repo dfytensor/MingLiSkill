@@ -1,0 +1,10 @@
+S1_current: 34/72 = 47.2%
+S2_agree_then_rules: 28/72 = 38.9%
+S3_agree_then_agent: 29/72 = 40.3%
+S4_hybrid_disagree_rules: 28/72 = 38.9%
+S7_hybrid_disagree_agent: 34/72 = 47.2%
+
+agent==rules agreement: 30/72 = 41.7%
+when agree, correct: 14/30 = 46.7%
+
+S4 category: 事业 2/10  健康 2/7  外貌 0/2  婚姻 7/17  子女 2/5  学业 4/8  家庭 4/9  性格 1/4  灾劫 1/1  财运 4/8  运势 1/1

@@ -1,0 +1,15 @@
+1 ftb_0043 家庭   AGENT  rules=D years=['1982', '1984', '1986', '1988'] shensha={}
+2 ftb_0001 健康   AGENT  rules=B years=['1996'] shensha={}
+3 ftb_0025 学业   AGENT  rules=C years=[] shensha={}
+4 ftb_0106 婚姻   AGENT  rules=A years=['1998', '1999'] shensha={}
+5 ftb_0122 婚姻   AGENT  rules=C years=[] shensha={}
+6 ftb_0020 家庭   AGENT  rules=D years=['2009'] shensha={}
+7 ftb_0086 性格   AGENT  rules=D years=[] shensha={}
+8 ftb_0145 性格   AGENT  rules=D years=[] shensha={}
+9 ftb_0090 财运   AGENT  rules=D years=[] shensha={}
+10 ftb_0049 健康   AGENT  rules=A years=['2014'] shensha={}
+11 ftb_0096 婚姻   AGENT  rules=A years=[] shensha={}
+12 ftb_0105 健康   AGENT  rules=C years=['1998', '2010', '2018', '2022'] shensha={}
+13 ftb_0060 健康   AGENT  rules=B years=['2011', '2013', '2016', '2020'] shensha={}
+14 ftb_0022 婚姻   AGENT  rules=A years=['2017', '2019', '2018'] shensha={}
+15 ftb_0006 学业   AGENT  rules=B years=['2002', '2006', '2004', '1998'] shensha={}

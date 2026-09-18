@@ -1,0 +1,4 @@
+RETROSPECTIVE ONLY (answers already seen — NOT prospective validation):
+hybrid committed: 64/160 = 40.0%
+blend2 (hybrid+rules majority): 63/159 = 39.6%
+blend3 (hybrid+rules+KB majority): 59/159 = 37.1%

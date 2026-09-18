@@ -1,0 +1,674 @@
+{
+ "ftb_0001": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "A",
+  "cat": "健康"
+ },
+ "ftb_0002": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "C",
+  "cat": "婚姻"
+ },
+ "ftb_0003": {
+  "pick": "D",
+  "agent": "B",
+  "rules": "D",
+  "real": "C",
+  "cat": "健康"
+ },
+ "ftb_0007": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "B",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0008": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "A",
+  "cat": "子女"
+ },
+ "ftb_0010": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "B",
+  "cat": "家庭"
+ },
+ "ftb_0014": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "A",
+  "real": "C",
+  "cat": "事业"
+ },
+ "ftb_0016": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "A",
+  "cat": "事业"
+ },
+ "ftb_0018": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "C",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0019": {
+  "pick": "C",
+  "agent": "B",
+  "rules": "C",
+  "real": "A",
+  "cat": "健康"
+ },
+ "ftb_0020": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "D",
+  "real": "D",
+  "cat": "家庭"
+ },
+ "ftb_0021": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "A",
+  "real": "A",
+  "cat": "性格"
+ },
+ "ftb_0022": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "A",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0024": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "C",
+  "real": "C",
+  "cat": "家庭"
+ },
+ "ftb_0025": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "B",
+  "cat": "学业"
+ },
+ "ftb_0027": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "D",
+  "cat": "学业"
+ },
+ "ftb_0028": {
+  "pick": "A",
+  "agent": "C",
+  "rules": "A",
+  "real": "D",
+  "cat": "财运"
+ },
+ "ftb_0030": {
+  "pick": "C",
+  "agent": "D",
+  "rules": "C",
+  "real": "B",
+  "cat": "财运"
+ },
+ "ftb_0032": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "C",
+  "cat": "家庭"
+ },
+ "ftb_0035": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "A",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0041": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "C",
+  "real": "B",
+  "cat": "性格"
+ },
+ "ftb_0042": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "D",
+  "real": "C",
+  "cat": "事业"
+ },
+ "ftb_0043": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "D",
+  "real": "B",
+  "cat": "家庭"
+ },
+ "ftb_0044": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "A",
+  "cat": "婚姻"
+ },
+ "ftb_0048": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "B",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0049": {
+  "pick": "A",
+  "agent": "C",
+  "rules": "A",
+  "real": "D",
+  "cat": "健康"
+ },
+ "ftb_0051": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "D",
+  "cat": "婚姻"
+ },
+ "ftb_0052": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "A",
+  "real": "D",
+  "cat": "子女"
+ },
+ "ftb_0053": {
+  "pick": "D",
+  "agent": "A",
+  "rules": "D",
+  "real": "C",
+  "cat": "财运"
+ },
+ "ftb_0054": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "C",
+  "real": "C",
+  "cat": "婚姻"
+ },
+ "ftb_0055": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "B",
+  "real": "D",
+  "cat": "事业"
+ },
+ "ftb_0056": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "D",
+  "real": "C",
+  "cat": "性格"
+ },
+ "ftb_0057": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "A",
+  "cat": "学业"
+ },
+ "ftb_0060": {
+  "pick": "B",
+  "agent": "A",
+  "rules": "B",
+  "real": "C",
+  "cat": "健康"
+ },
+ "ftb_0061": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "B",
+  "cat": "事业"
+ },
+ "ftb_0062": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "C",
+  "cat": "事业"
+ },
+ "ftb_0063": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "C",
+  "real": "C",
+  "cat": "婚姻"
+ },
+ "ftb_0064": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "D",
+  "real": "B",
+  "cat": "子女"
+ },
+ "ftb_0065": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "B",
+  "real": "B",
+  "cat": "子女"
+ },
+ "ftb_0066": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "C",
+  "cat": "事业"
+ },
+ "ftb_0067": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "D",
+  "real": "A",
+  "cat": "财运"
+ },
+ "ftb_0068": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "B",
+  "real": "C",
+  "cat": "事业"
+ },
+ "ftb_0071": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "B",
+  "real": "B",
+  "cat": "家庭"
+ },
+ "ftb_0072": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "D",
+  "cat": "学业"
+ },
+ "ftb_0073": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "C",
+  "cat": "婚姻"
+ },
+ "ftb_0074": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "D",
+  "cat": "婚姻"
+ },
+ "ftb_0076": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "C",
+  "cat": "婚姻"
+ },
+ "ftb_0077": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "C",
+  "cat": "婚姻"
+ },
+ "ftb_0078": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "B",
+  "cat": "事业"
+ },
+ "ftb_0082": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "B",
+  "cat": "学业"
+ },
+ "ftb_0083": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "A",
+  "real": "D",
+  "cat": "婚姻"
+ },
+ "ftb_0086": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "D",
+  "real": "D",
+  "cat": "性格"
+ },
+ "ftb_0089": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "C",
+  "cat": "家庭"
+ },
+ "ftb_0090": {
+  "pick": "D",
+  "agent": "C",
+  "rules": "D",
+  "real": "A",
+  "cat": "财运"
+ },
+ "ftb_0093": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "D",
+  "real": "B",
+  "cat": "官非"
+ },
+ "ftb_0094": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "A",
+  "cat": "灾劫"
+ },
+ "ftb_0095": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "C",
+  "cat": "财运"
+ },
+ "ftb_0097": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "A",
+  "cat": "婚姻"
+ },
+ "ftb_0098": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "B",
+  "real": "A",
+  "cat": "婚姻"
+ },
+ "ftb_0099": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "A",
+  "real": "D",
+  "cat": "婚姻"
+ },
+ "ftb_0101": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "D",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0102": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "D",
+  "real": "A",
+  "cat": "婚姻"
+ },
+ "ftb_0103": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "D",
+  "real": "C",
+  "cat": "事业"
+ },
+ "ftb_0105": {
+  "pick": "C",
+  "agent": "B",
+  "rules": "C",
+  "real": "B",
+  "cat": "健康"
+ },
+ "ftb_0106": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "A",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0107": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "A",
+  "real": "A",
+  "cat": "婚姻"
+ },
+ "ftb_0109": {
+  "pick": "B",
+  "agent": "A",
+  "rules": "B",
+  "real": "D",
+  "cat": "财运"
+ },
+ "ftb_0113": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "D",
+  "cat": "健康"
+ },
+ "ftb_0115": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "D",
+  "real": "D",
+  "cat": "事业"
+ },
+ "ftb_0116": {
+  "pick": "C",
+  "agent": "A",
+  "rules": "C",
+  "real": "B",
+  "cat": "健康"
+ },
+ "ftb_0117": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "D",
+  "real": "C",
+  "cat": "家庭"
+ },
+ "ftb_0119": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "B",
+  "real": "D",
+  "cat": "家庭"
+ },
+ "ftb_0120": {
+  "pick": "D",
+  "agent": "C",
+  "rules": "D",
+  "real": "C",
+  "cat": "财运"
+ },
+ "ftb_0121": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "B",
+  "real": "B",
+  "cat": "家庭"
+ },
+ "ftb_0126": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "B",
+  "real": "D",
+  "cat": "健康"
+ },
+ "ftb_0130": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "B",
+  "real": "B",
+  "cat": "家庭"
+ },
+ "ftb_0131": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "B",
+  "cat": "家庭"
+ },
+ "ftb_0132": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "B",
+  "real": "B",
+  "cat": "性格"
+ },
+ "ftb_0133": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "D",
+  "cat": "学业"
+ },
+ "ftb_0134": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "C",
+  "cat": "婚姻"
+ },
+ "ftb_0135": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "A",
+  "real": "A",
+  "cat": "家庭"
+ },
+ "ftb_0137": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "D",
+  "real": "D",
+  "cat": "灾劫"
+ },
+ "ftb_0138": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "B",
+  "cat": "事业"
+ },
+ "ftb_0139": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "D",
+  "real": "A",
+  "cat": "婚姻"
+ },
+ "ftb_0140": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "D",
+  "real": "B",
+  "cat": "健康"
+ },
+ "ftb_0143": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "D",
+  "real": "D",
+  "cat": "婚姻"
+ },
+ "ftb_0144": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "A",
+  "real": "A",
+  "cat": "家庭"
+ },
+ "ftb_0147": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "B",
+  "cat": "性格"
+ },
+ "ftb_0149": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "D",
+  "cat": "事业"
+ },
+ "ftb_0150": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "D",
+  "real": "C",
+  "cat": "健康"
+ },
+ "ftb_0151": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "A",
+  "cat": "家庭"
+ },
+ "ftb_0153": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "B",
+  "cat": "婚姻"
+ },
+ "ftb_0155": {
+  "pick": "D",
+  "agent": "D",
+  "rules": "D",
+  "real": "B",
+  "cat": "外貌"
+ },
+ "ftb_0157": {
+  "pick": "B",
+  "agent": "B",
+  "rules": "D",
+  "real": "A",
+  "cat": "事业"
+ },
+ "ftb_0158": {
+  "pick": "C",
+  "agent": "C",
+  "rules": "C",
+  "real": "D",
+  "cat": "运势"
+ },
+ "ftb_0159": {
+  "pick": "A",
+  "agent": "A",
+  "rules": "A",
+  "real": "C",
+  "cat": "健康"
+ }
+}

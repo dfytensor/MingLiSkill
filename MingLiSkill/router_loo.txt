@@ -1,0 +1,4 @@
+LOO router evaluation on 160 questions (train=others):
+  R_cat: 62/160 = 38.8%
+  R_best2: 59/160 = 36.9%
+baselines: agent 59/160 = 36.9% | rules 55/160 = 34.4%

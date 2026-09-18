@@ -1,0 +1,19 @@
+ftb_0131 家庭   agent   C->B X
+ftb_0031 性格   agent   D->D OK
+ftb_0074 婚姻   agent   B->D X
+ftb_0034 婚姻   scorer  C->C OK
+ftb_0083 婚姻   agent   B->D X
+ftb_0093 官非   agent   C->B X
+ftb_0147 性格   agent   C->B X
+ftb_0064 子女   agent   A->B X
+ftb_0076 婚姻   scorer  A->C X
+ftb_0094 灾劫   agent   B->A X
+ftb_0135 家庭   agent   C->A X
+ftb_0035 婚姻   agent   C->B X
+ftb_0010 家庭   agent   A->B X
+ftb_0005 健康   agent   A->B X
+ftb_0044 婚姻   agent   B->A X
+R6: 2/15 = 13.3%
+  [agent]: 1/13
+  [scorer]: 1/2
+POOLED R1-R6: 47/117 = 40.2% (prev R1-R5: 45/102)

@@ -1,0 +1,2 @@
+Optimal weights: {"s9_rules": 0.5, "s6_liunian_yong": 0.5, "s3_ziwei": 0.5}
+Score: 60/160 = 37.5%

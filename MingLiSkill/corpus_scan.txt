@@ -1,0 +1,46 @@
+== github: 渊海子平 ==
+  x3747991-ship-it/mingli-yuanzhuo-skillpack | 249 | 【野生你盘叔】命理圆桌·九席合参论命 AI 技能包（子平纳音体用法/三命通会/神峰通考/渊海子平/盲派易痴/韦千里/盲派
+  mystilight/mystilight-8char | 573 | 生辰八字，来自东方的神秘文化，首个基于纯JavaScript无依赖的八字排盘库，也是首个具有完整的神煞系统的八字排盘库，
+  1806300087/bazi-calculator | 204 | 八字排盘-藏干计算器 | 基于《渊海子平》等传统命理学典籍
+  dshxliuyu-lang/bazimbtifenxi.skill | 48 | 四柱八字命理分析引擎 —   基于《穷通宝典》《三命通会》《滴天髓》《渊海子平》《子平真诠》等九部经典典籍，融合纳音、神
+  workhardooday/Bazi_RAG_Agent | 9990 | Bazi analysis RAG Agent based on the knowledge from Yuanhaiz
+  whitefssw/bazi-calculator | 484 | 八字计算器 - Professional Chinese Astrology Calculator integratin
+  x3747991-ship-it/yaunhai-shiping | 120 | 【野生你盘叔】《渊海子平》八字断法技能包 - 命学真典蒸馏产物
+  henrryjoke/diguan-bazi | 121 | 谛观·八字 — 汇通渊海子平/子平真诠/滴天髓/穷通宝鉴/神峰通考/三命通会/千里命稿/李虚中命书八部经典，逐条交叉验证
+== github: 三命通会 ==
+  wsshow/feikong-teams | 53391 | 一个基于多智能体协作的 AI 助手，支持命令行和Web界面，提供团队模式、自定义会议模式和多智能体讨论模式（圆桌会议模式
+  x3747991-ship-it/mingli-yuanzhuo-skillpack | 249 | 【野生你盘叔】命理圆桌·九席合参论命 AI 技能包（子平纳音体用法/三命通会/神峰通考/渊海子平/盲派易痴/韦千里/盲派
+  tolerious/webserver | 132 | Linux平台下C++开发的网络服务程序设计,多进程网络服务程序,多线程网络服务程 序,线程池网络服务程序的设计,代码的
+  dshxliuyu-lang/bazimbtifenxi.skill | 48 | 四柱八字命理分析引擎 —   基于《穷通宝典》《三命通会》《滴天髓》《渊海子平》《子平真诠》等九部经典典籍，融合纳音、神
+  henrryjoke/diguan-bazi | 121 | 谛观·八字 — 汇通渊海子平/子平真诠/滴天髓/穷通宝鉴/神峰通考/三命通会/千里命稿/李虚中命书八部经典，逐条交叉验证
+  secret04725-coder/bazi-master-skill | 823 | 八字命理深度分析 AI Skill：Python 精确排盘 × 九部经典引用（穷通宝典/滴天髓/三命通会等）× 19章H
+  cirosantilli/x86-bare-metal-examples | 1080 | Dozens of minimal operating systems to learn x86 system prog
+  whitefssw/bazi-calculator | 484 | 八字计算器 - Professional Chinese Astrology Calculator integratin
+== github: 子平真诠 ==
+  dshxliuyu-lang/bazimbtifenxi.skill | 48 | 四柱八字命理分析引擎 —   基于《穷通宝典》《三命通会》《滴天髓》《渊海子平》《子平真诠》等九部经典典籍，融合纳音、神
+  litfresh/ziping-zhenquan | 34 | 子平真诠八字精解（小马通俗版）— Hermes Agent Skill
+  whitefssw/bazi-calculator | 484 | 八字计算器 - Professional Chinese Astrology Calculator integratin
+  henrryjoke/diguan-bazi | 121 | 谛观·八字 — 汇通渊海子平/子平真诠/滴天髓/穷通宝鉴/神峰通考/三命通会/千里命稿/李虚中命书八部经典，逐条交叉验证
+  x3747991-ship-it/ziping-zhenquan-bazi-skillpack | 95 | 【野生你盘叔】基于《子平真诠》蒸馏的 AI 八字分析技能包（7 个 SKILL 技能）
+  stephenxu007-ux/bazi-destiny-master | 148 | 本项目以梁湘润子平八字体系为主轴，结合《子平真诠》《滴天髓》《三命通会》《穷通宝鉴》《神峰通考》等规则，重点处理：  排
+  AF-ZG/bazi-divination-skill | 23 | 五经八字命理占卜：严格以《滴天髓》《子平真诠》《穷通宝鉴》《三命通会》《渊海子平》为依据，带真太阳时校正排盘，禁套话、只
+  baixiaobing882-bot/Bazi-Yijing-Metaphysics-Agent | 0 | 基于易经与子平八字的中式命理 AI 智能体，融合《滴天髓》《三命通会》《穷通宝鉴》《子平真诠》《渊海子平》等古籍，支持完
+== github: 八字 命理 书 ==
+  heikeyangle-code/rikkahub-plus | 301372 | RikkaHub Plus（酒馆和命理增强版）—— 基于 rikkahub 的深度定制分支：命理排盘（西洋/印度/古典占
+  KeWang0622/bazi-skill | 19 | 八字命理 AI — Claude Code Skill | AI-powered Four Pillars of Des
+  Alisawenting/fortuneAI | 988 | 基于中华传统命理学进行八字排盘，通过LLM结合传统命理学书籍知识库进行解析
+  x3747991-ship-it/mingxue-zhendian | 99 | 【野生你盘叔】命学真典 - 把命理书籍蒸馏成可被 AI 直接调用的八字分析技能包
+  Explosion-svg/ziping-bazi | 138 | 子平派八字命理工具集：确定性排盘 + 神煞/合婚查表 + 古籍 RAG + LLM 解读 + 独立校验，一键产出 HTM
+  Johnson-Jia/ziwei-bazi-reading | 1474 | 面向 Claude Code 的中国传统命理推演技能：紫微斗数 + 八字双体系独立排盘，算法算盘面、LLM 做解读，产出
+  chen4627/BaZiLingShu | 5 | 八字灵枢——基于多 Tool Agent 架构的 AI 八字命理分析系统。输入生辰自动拆解 12 个命理维度，逐维度独立
+  ZYC-teo/yanpan-suanming | 92 | 十流派竞赛验盘的命理 AI Skill：八字/紫微/六爻/六书对照深度推演，用你的真实人生节点校准流派权重，谁准谁主断未
+== github: 滴天髓 ==
+  HunterTree/ditiansui | 531 | 滴天髓八字测算
+  x3747991-ship-it/mingli-yuanzhuo-skillpack | 249 | 【野生你盘叔】命理圆桌·九席合参论命 AI 技能包（子平纳音体用法/三命通会/神峰通考/渊海子平/盲派易痴/韦千里/盲派
+  dshxliuyu-lang/bazimbtifenxi.skill | 48 | 四柱八字命理分析引擎 —   基于《穷通宝典》《三命通会》《滴天髓》《渊海子平》《子平真诠》等九部经典典籍，融合纳音、神
+  x3747991-ship-it/ditiansui-skillpack | 561 | 【野生你盘叔】清代任铁樵《滴天髓阐微》蒸馏的六论断命技能包
+  whitefssw/bazi-calculator | 484 | 八字计算器 - Professional Chinese Astrology Calculator integratin
+  secret04725-coder/bazi-master-skill | 823 | 八字命理深度分析 AI Skill：Python 精确排盘 × 九部经典引用（穷通宝典/滴天髓/三命通会等）× 19章H
+  henrryjoke/diguan-bazi | 121 | 谛观·八字 — 汇通渊海子平/子平真诠/滴天髓/穷通宝鉴/神峰通考/三命通会/千里命稿/李虚中命书八部经典，逐条交叉验证
+  AF-ZG/bazi-divination-skill | 23 | 五经八字命理占卜：严格以《滴天髓》《子平真诠》《穷通宝鉴》《三命通会》《渊海子平》为依据，带真太阳时校正排盘，禁套话、只
+== gushiwen 三命通会 chapters: 0 ==

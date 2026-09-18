@@ -1,0 +1,12 @@
+ftb_0131 day=己 yearpillar=癸亥
+  year in question: None
+  first year option: ('B', 2021, '父亲为政府高级职员，2021年去世，命主有一兄一姐')
+  gz(2021)=辛丑  ss(gan)=食神  zhihide=('己', '癸', '辛') mid_ss=偏财
+ftb_0094 day=丁 yearpillar=辛丑
+  year in question: None
+  first year option: ('A', 1965, '1965年4岁')
+  gz(1965)=乙巳  ss(gan)=偏印  zhihide=('丙', '庚', '戊') mid_ss=正财
+ftb_0060 day=丁 yearpillar=丙申
+  year in question: None
+  first year option: ('A', 2011, '2011年血管阻塞，轻微中风')
+  gz(2011)=辛卯  ss(gan)=偏财  zhihide=('乙',) mid_ss=None

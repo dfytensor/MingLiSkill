@@ -1,0 +1,7 @@
+wikisource: FAIL <urlopen error _ssl.c:1064: The handshake operation timed out>
+
+gushiwen: OK 2000 bytes | head: b'\n<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'
+
+github_raw: OK 2000 bytes | head: b'Linux kernel\n============\n\nThe Linux kernel is the core of any Linux operating system. It manages hardware,\nsystem resou'
+
+github_api: OK 2000 bytes | head: b'{"total_count":20,"incomplete_results":false,"items":[{"id":1343283755,"node_id":"R_kgDOUBDiKw","name":"mingli-yuanzhuo-'

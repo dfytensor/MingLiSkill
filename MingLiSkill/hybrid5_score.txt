@@ -1,0 +1,44 @@
+ftb_0125 婚姻     agent B->B OK
+ftb_0068 事业     agent A->C X
+ftb_0056 性格     agent A->C X
+ftb_0110 婚姻     agent B->B OK
+ftb_0062 事业     agent B->C X
+ftb_0067 财运     rules D->A X
+ftb_0061 事业     agent C->B X
+ftb_0124 婚姻     agent A->A OK
+ftb_0018 婚姻     agent D->B X
+ftb_0130 家庭     agent C->B X
+ftb_0037 婚姻     agent C->C OK
+ftb_0042 事业     agent D->C X
+ftb_0149 事业     agent A->D X
+ftb_0055 事业     agent C->D X
+ftb_0063 婚姻     agent D->C X
+ftb_0085 婚姻     agent C->C OK
+ftb_0033 健康     rules A->A OK
+ftb_0107 婚姻     agent C->A X
+ftb_0007 婚姻     agent D->B X
+ftb_0072 学业     rules A->D X
+ftb_0158 运势     rules C->D X
+ftb_0021 性格     agent C->A X
+ftb_0075 事业     agent A->A OK
+ftb_0150 健康     rules D->C X
+ftb_0103 事业     agent B->C X
+ftb_0146 性格     agent A->A OK
+ftb_0099 婚姻     agent C->D X
+ftb_0039 事业     agent A->A OK
+ftb_0012 事业     agent C->C OK
+ftb_0081 家庭     agent B->B OK
+R5 HYBRID: 11/30 = 36.7%
+  事业: 3/10
+  健康: 1/2
+  婚姻: 5/10
+  学业: 0/1
+  家庭: 1/2
+  性格: 1/3
+  财运: 0/1
+  运势: 0/1
+  [agent]: 10/25
+  [rules]: 1/5
+
+POOLED HYBRID R1-R5: 45/102 = 44.1%
+  (R1-R4: 34/72)

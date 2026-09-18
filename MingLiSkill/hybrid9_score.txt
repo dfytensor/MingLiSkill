@@ -1,0 +1,15 @@
+ftb_0052 子女   C->D X
+ftb_0144 家庭   C->A X
+ftb_0069 财运   C->C OK
+ftb_0123 事业   B->B OK
+ftb_0127 性格   B->B OK
+ftb_0088 事业   D->D OK
+ftb_0059 事业   C->C OK
+ftb_0097 婚姻   B->A X
+ftb_0134 婚姻   A->C X
+ftb_0026 婚姻   A->A OK
+ftb_0014 事业   D->C X
+ftb_0118 外貌   A->A OK
+ftb_0030 财运   D->B X
+R9: 7/13 = 53.8%
+POOLED R1-R9: 52/160 = 32.5%

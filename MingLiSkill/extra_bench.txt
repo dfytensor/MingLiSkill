@@ -1,0 +1,43 @@
+== look-fate/fate_benchmark: 42 files ==
+    7609  README.md
+   79578  baziqia_all.json
+    9191  benchmark.py
+   17719  data/contest8_2021.json
+   16284  data/contest8_2022.json
+   14253  data/contest8_2023.json
+   18772  data/contest8_2024.json
+   22675  data/contest8_2025.json
+    2120  export.py
+    4103  patch_scores.py
+    7340  regen.py
+   16639  result-0/contest8_2021_cache.json
+   15090  result-0/contest8_2022_cache.json
+   14150  result-0/contest8_2023_cache.json
+   18094  result-0/contest8_2024_cache.json
+   19459  result-0/contest8_2025_cache.json
+   16639  result-1/contest8_2021_cache.json
+   15090  result-1/contest8_2022_cache.json
+   14150  result-1/contest8_2023_cache.json
+   18094  result-1/contest8_2024_cache.json
+   19459  result-1/contest8_2025_cache.json
+    2300  result.md
+   12308  score.py
+    5435  scores-0/_summary.json
+   12427  scores-0/contest8_2021.json
+   11982  scores-0/contest8_2022.json
+   12252  scores-0/contest8_2023.json
+   12452  scores-0/contest8_2024.json
+   12486  scores-0/contest8_2025.json
+    5256  scores/_summary.json
+   12409  scores/contest8_2021.json
+   11979  scores/contest8_2022.json
+   12174  scores/contest8_2023.json
+   12439  scores/contest8_2024.json
+   12479  scores/contest8_2025.json
+    4086  stats.py
+== github search: bazi benchmark dataset ==
+  shunshi-ai/fate-bench | Open datasets and benchmarks for Chinese metaphysics — BaZi (八字), Zi Wei Dou Shu
+  muxiawei-ai/mingli-bench | Chinese metaphysics benchmark and reusable Bazi/Ziwei chart utilities for LLM ev
+== github search: BaziQA ==
+  ChenJiangxi/BaziQA | A BaziQA benchmark is proposed with its experiment report
+  wjpjy667/BaziQA | 四柱八字命盘分析 — 潘某人完整命盘解读，含排盘、大运、流年、事业、健康、考证、避坑等全维度分析

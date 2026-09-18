@@ -1,0 +1,6 @@
+Strategy A (细分类别路由): 74/160 = 46.2%
+Strategy B (+同意增强): 81/160 = 50.6%
+Strategy C (多层fallback): 68/160 = 42.5%
+Baseline hybrid: 64/160 = 40.0%
+
+Sub-best mapping: {"事业-事件": "agent", "事业-状况": "agent", "事业-职业": "agent", "健康-事件": "hybrid", "健康-状况": "agent", "外貌": "agent", "婚姻-婚期": "corpus", "婚姻-感情": "agent", "婚姻-状况": "agent", "婚姻-离婚": "agent", "子女": "agent", "学业-事件": "agent", "学业-水平": "hybrid", "官非": "agent", "家庭-亲人亡": "rules", "家庭-关系": "agent", "家庭-出身": "rules", "家庭-父母离异": "kb", "性格": "agent", "灾劫": "rules", "财运-事件": "hybrid", "财运-状况": "corpus", "运势": "hybrid"}

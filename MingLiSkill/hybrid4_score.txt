@@ -1,0 +1,29 @@
+ID         Cat     Src    Mine Real  Result
+----------------------------------------------------
+ftb_0113   健康      rules  B    D    X
+ftb_0155   外貌      agent  D    B    X
+ftb_0057   学业      rules  B    A    X
+ftb_0087   婚姻      agent  C    C    OK
+ftb_0011   家庭      agent  D    D    OK
+ftb_0104   财运      rules  B    B    OK
+ftb_0102   婚姻      agent  C    A    X
+ftb_0082   学业      rules  A    B    X
+ftb_0027   学业      rules  B    D    X
+ftb_0137   灾劫      agent  A    D    X
+ftb_0126   健康      rules  B    D    X
+ftb_0160   性格      agent  A    A    OK
+ftb_0142   学业      rules  A    A    OK
+ftb_0073   婚姻      agent  A    C    X
+ftb_0080   财运      rules  D    D    OK
+----------------------------------------------------
+HYBRID total: 6/15 = 40.0%
+  健康: 0/2
+  外貌: 0/1
+  婚姻: 1/3
+  学业: 1/4
+  家庭: 1/1
+  性格: 1/1
+  灾劫: 0/1
+  财运: 2/2
+  [agent]: 3/7
+  [rules]: 3/8

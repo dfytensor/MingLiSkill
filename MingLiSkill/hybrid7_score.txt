@@ -1,0 +1,18 @@
+ftb_0023 事业   B->B OK
+ftb_0038 健康   B->B OK
+ftb_0140 健康   D->B X
+ftb_0054 婚姻   B->C X
+ftb_0089 家庭   B->C X
+ftb_0153 婚姻   A->B X
+ftb_0116 健康   A->B X
+ftb_0121 家庭   C->B X
+ftb_0112 婚姻   D->D OK
+ftb_0015 性格   B->B OK
+ftb_0101 婚姻   C->B X
+ftb_0117 家庭   D->C X
+ftb_0053 财运   A->C X
+ftb_0132 性格   D->B X
+ftb_0046 家庭   A->A OK
+R7: 5/15 = 33.3%
+  [agent]: 5/15
+POOLED R1-R7: 50/117 = 42.7%

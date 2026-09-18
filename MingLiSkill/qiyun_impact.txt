@@ -1,0 +1,16 @@
+Rules-engine baseline on same 102 questions:
+OLD engine (fixed 1/11/21 dayun): 36/102 = 35.3%
+NEW engine (real qiyun ages):     35/102 = 34.3%
+
+NEW per-category:
+  事业: 3/20
+  健康: 2/9
+  外貌: 0/2
+  婚姻: 11/27
+  子女: 2/5
+  学业: 4/9
+  家庭: 6/11
+  性格: 2/7
+  灾劫: 1/1
+  财运: 4/9
+  运势: 0/2

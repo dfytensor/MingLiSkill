@@ -1,0 +1,47 @@
+=== 2021 Prospective Test (40 new questions, never seen before) ===
+Score: 12/40 = 30.0%
+
+Comparison with existing 160-question benchmark: 40.0%
+Comparison with Claude Opus 4.6 baseline: 40.0% (2025, 40Q)
+Comparison with Tianfu Agent: 50.0% (2025, 40Q)
+
+P025-Q1 C->C OK
+P025-Q2 A->A OK
+P025-Q3 C->C OK
+P025-Q4 B->C X
+P025-Q5 C->B X
+P026-Q6 B->C X
+P026-Q7 D->D OK
+P026-Q8 C->D X
+P026-Q9 C->B X
+P026-Q10 A->A OK
+P027-Q11 D->C X
+P027-Q12 C->A X
+P027-Q13 C->C OK
+P027-Q14 B->D X
+P027-Q15 A->A OK
+P028-Q16 D->B X
+P028-Q17 C->A X
+P028-Q18 B->D X
+P028-Q19 B->D X
+P028-Q20 A->C X
+P029-Q21 B->D X
+P029-Q22 B->D X
+P029-Q23 B->A X
+P029-Q24 C->B X
+P029-Q25 C->C OK
+P030-Q26 D->D OK
+P030-Q27 A->D X
+P030-Q28 D->D OK
+P030-Q29 D->A X
+P030-Q30 A->A OK
+P031-Q31 C->C OK
+P031-Q32 D->B X
+P031-Q33 C->A X
+P031-Q34 D->A X
+P031-Q35 C->D X
+P033-Q36 C->A X
+P033-Q37 a->B X
+P033-Q38 a->D X
+P034-Q39 B->? X
+P034-Q40 a->? X

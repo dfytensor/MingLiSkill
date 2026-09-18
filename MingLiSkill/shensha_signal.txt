@@ -1,0 +1,39 @@
+红鸾/天喜/桃花 信号回顾统计（标准查表，无自由参数）:
+婚姻/婚恋题: 真实答案年命中红鸾天喜或桃花 4/14 = 29%
+恋爱题: 命中桃花 0/2
+全部带年份选项题: 任一神煞命中 17/34 = 50% (4神煞×随机基线~33%)
+
+ftb_0084 [子女] real=2004(C) hits=-
+ftb_0032 [家庭] real=2003(C) hits=-
+ftb_0028 [财运] real=2021(D) hits=华盖(日支查)
+ftb_0002 [婚姻] real=2006(C) hits=华盖(年支查),天喜(日支查)
+ftb_0148 [事业] real=2017(B) hits=桃花(日支查)
+ftb_0077 [婚姻] real=2013(C) hits=-
+ftb_0084 [子女] real=2004(C) hits=-
+ftb_0143 [婚姻] real=2016(D) hits=三刑(卯子)
+ftb_0114 [子女] real=2013(D) hits=-
+ftb_0051 [婚姻] real=2016(D) hits=驿马(年支查),驿马(日支查)
+ftb_0070 [健康] real=2022(D) hits=红鸾(日支查)
+ftb_0133 [学业] real=2021(D) hits=-
+ftb_0066 [事业] real=1985(C) hits=华盖(日支查)
+ftb_0004 [家庭] real=2018(C) hits=华盖(年支查),天喜(日支查)
+ftb_0008 [子女] real=2007(A) hits=驿马(年支查),红鸾(日支查)
+ftb_0102 [婚姻] real=2010(A) hits=-
+ftb_0073 [婚姻] real=2020(C) hits=-
+ftb_0068 [事业] real=1993(C) hits=-
+ftb_0067 [财运] real=1987(A) hits=桃花(年支查)
+ftb_0018 [婚姻] real=2013(B) hits=天喜(日支查)
+ftb_0063 [婚姻] real=2008(C) hits=天喜(日支查)
+ftb_0085 [婚姻] real=2022(C) hits=驿马(年支查),三刑(寅巳申)
+ftb_0033 [健康] real=2003(A) hits=-
+ftb_0007 [婚姻] real=2006(B) hits=-
+ftb_0099 [婚姻] real=2017(D) hits=-
+ftb_0131 [家庭] real=2021(B) hits=-
+ftb_0034 [婚姻] real=2012(C) hits=华盖(年支查)
+ftb_0064 [子女] real=2013(B) hits=-
+ftb_0076 [婚姻] real=2005(C) hits=桃花(年支查),自刑(酉)
+ftb_0094 [灾劫] real=1965(A) hits=-
+ftb_0010 [家庭] real=1999(B) hits=-
+ftb_0140 [健康] real=2016(B) hits=红鸾(日支查)
+ftb_0089 [家庭] real=2011(C) hits=桃花(日支查)
+ftb_0101 [婚姻] real=1999(B) hits=-

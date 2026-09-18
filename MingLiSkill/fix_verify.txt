@@ -1,0 +1,4 @@
+正财: pos=年柱天干 stem='癸' root=True wx=水 transparent=True
+正财: pos=年柱地支本气 stem='己' root=True wx=土 transparent=False
+正印: pos=月柱天干 stem='丙' root=True wx=火 transparent=True
+劫财: pos=月柱地支中气 stem='丙' root=True wx=火 transparent=False

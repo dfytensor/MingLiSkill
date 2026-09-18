@@ -1,0 +1,4 @@
+2022: 26/30 in-archive = 86.7% (archived 30/40)
+2023: 21/30 in-archive = 70.0% (archived 30/40)
+2024: 19/29 in-archive = 65.5% (archived 29/40)
+2025: 16/26 in-archive = 61.5% (archived 26/40)

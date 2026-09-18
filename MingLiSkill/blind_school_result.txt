@@ -1,0 +1,32 @@
+MISS ftb_0016 [事业] 做功=食神生财 matched C but real=A
+MISS ftb_0021 [性格] 做功=财生杀攻身 matched C but real=A
+MISS ftb_0024 [家庭] 做功=食神制杀 matched D but real=C
+MISS ftb_0030 [财运] 做功=伤官生财 matched C but real=B
+MISS ftb_0044 [婚姻] 做功=伤官见官 matched C but real=A
+MISS ftb_0053 [财运] 做功=财生杀攻身 matched D but real=C
+MISS ftb_0073 [婚姻] 做功=比劫夺财 matched D but real=C
+MISS ftb_0074 [婚姻] 做功=枭神夺食 matched B but real=D
+MISS ftb_0074 [婚姻] 做功=伤官见官 matched C but real=D
+MISS ftb_0090 [财运] 做功=财生杀攻身 matched D but real=A
+FIX ftb_0098 [婚姻] 做功=枭神夺食 效率=0.0 状态=做功无力（败） → A ✓
+MISS ftb_0102 [婚姻] 做功=伤官见官 matched D but real=A
+MISS ftb_0106 [婚姻] 做功=伤官生财 matched A but real=B
+FIX ftb_0107 [婚姻] 做功=伤官生财 效率=0.0 状态=做功无力（败） → A ✓
+MISS ftb_0109 [财运] 做功=伤官生财 matched B but real=D
+FIX ftb_0109 [财运] 做功=伤官生财 效率=0.0 状态=做功无力（败） → D ✓
+FIX ftb_0117 [家庭] 做功=伤官生财 效率=0.0 状态=做功无力（败） → C ✓
+MISS ftb_0119 [家庭] 做功=财生杀攻身 matched C but real=D
+MISS ftb_0121 [家庭] 做功=伤官生财 matched A but real=B
+MISS ftb_0130 [家庭] 做功=伤官生财 matched A but real=B
+MISS ftb_0133 [学业] 做功=杀印相生 matched C but real=D
+MISS ftb_0133 [学业] 做功=杀印相生 matched C but real=D
+MISS ftb_0135 [家庭] 做功=财生杀攻身 matched B but real=A
+MISS ftb_0138 [事业] 做功=食神制杀 matched C but real=B
+MISS ftb_0144 [家庭] 做功=伤官见官 matched B but real=A
+FIX ftb_0153 [婚姻] 做功=枭神夺食 效率=0.0 状态=做功无力（败） → B ✓
+MISS ftb_0153 [婚姻] 做功=枭神夺食 matched D but real=B
+
+=== Summary ===
+Wrong answers checked: 96
+盲派做功 can fix: 5
+Fix rate: 5.2%

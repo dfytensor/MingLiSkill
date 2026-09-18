@@ -1,0 +1,25 @@
+=== china-testing/bazi: 22 files ===
+  15120292  手相/手相教程(上)4掌纹 1.0 2026-8-24.pdf
+  13911049  手相/手相教程(上)手相概论1研究手相需知2手指学 1.0 2026-8-21.pdf
+  10634014  手相/手相教程(上)3手相概论 1.0 2026-8-25.pdf
+    172759  sizi.py
+    120776  bazi.py
+     87119  yue.py
+     84976  datas.py
+     73359  books/zipingzhenquan.md
+     35239  README.md
+     29377  books/zipingzhenquanjizhu.md
+     29377  books/穷通宝鉴.md
+     25984  ganzhi.py
+     21064  examples/guan.md
+     10735  luohou.py
+      5152  examples/shangguan.md
+      4563  examples/cai.md
+      3908  examples/pianguan.md
+      1939  shengxiao.py
+      1604  common.py
+      1239  .gitignore
+       861  convert.py
+       703  examples/examples.md
+
+quanxue FAIL: HTTP Error 404: Not Found

@@ -1,0 +1,42 @@
+== workhardooday/Bazi_RAG_Agent: 8 files ==
+  165984  八字渊海子平.txt
+== henrryjoke/diguan-bazi: 10 files ==
+  162438  references/八字论命操作手册.md
+   84034  scripts/solar_terms_2000_2100.json
+   54551  references/现代场景参数化.md
+   11502  references/八字排盘提示词.md
+    6323  README.md
+    4526  SKILL.md
+== HunterTree/ditiansui: 20 files ==
+== secret04725-coder/bazi-master-skill: 12 files ==
+   10262  SKILL.md
+    8745  README.md
+    8389  USAGE.md
+    7385  references/classical-texts.md
+    6318  references/wuxing-tables.md
+    3546  references/dayun-rules.md
+== x3747991-ship-it/ditiansui-skillpack: 41 files ==
+  481651  候选/命例.md
+  193361  候选/规则.md
+   51205  候选/格局.md
+   34117  候选/误区.md
+   22403  候选/bazi-index.md
+   21311  原文/块07.txt
+   20688  原文/块08.txt
+   20672  原文/块19.txt
+   20539  原文/块09.txt
+   20417  原文/块04.txt
+   20202  原文/块20.txt
+   19719  原文/块03.txt
+   19546  原文/块18.txt
+   19507  原文/块16.txt
+   19468  原文/块02.txt
+== x3747991-ship-it/mingxue-zhendian: 13 files ==
+   25885  SKILL.md
+   19588  references/bazi-model.md
+    8352  references/skeleton-template.md
+    5292  README.md
+    4606  references/skill-template.md
+    4254  references/test-prompts-template.md
+    3381  references/extractor-bazi-rule.md
+    3014  references/extractor-bazi-case.md

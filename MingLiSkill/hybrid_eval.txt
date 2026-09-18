@@ -1,0 +1,48 @@
+R1 hybrid: 10/15 = 66.7%
+R2 hybrid: 1/12 = 8.3%
+R3 hybrid: 17/30 = 56.7%
+
+POOLED hybrid: 28/57 = 49.1%  (agent alone 23/57=40.4%, rules alone 23/57=40.4%, oracle 36/57=63.2%)
+
+Category breakdown:
+  事业: 4/10 (40%) [rules-delegated 0/10]
+  健康: 2/5 (40%) [rules-delegated 5/5]
+  外貌: 1/1 (100%) [rules-delegated 0/1]
+  婚姻: 7/14 (50%) [rules-delegated 0/14]
+  子女: 3/5 (60%) [rules-delegated 0/5]
+  学业: 3/4 (75%) [rules-delegated 4/4]
+  家庭: 3/8 (38%) [rules-delegated 0/8]
+  性格: 2/3 (67%) [rules-delegated 0/3]
+  财运: 2/6 (33%) [rules-delegated 6/6]
+  运势: 1/1 (100%) [rules-delegated 1/1]
+
+Wrong cases (hybrid):
+  R1 ftb_0159 [健康] mine=A rules=A -> chose A(rules), real=C
+  R1 ftb_0041 [性格] mine=D rules=C -> chose D(agent), real=B
+  R1 ftb_0151 [家庭] mine=C rules=C -> chose C(agent), real=A
+  R1 ftb_0095 [财运] mine=A rules=A -> chose A(rules), real=C
+  R1 ftb_0032 [家庭] mine=B rules=A -> chose B(agent), real=C
+  R2 ftb_0109 [财运] mine=A rules=B -> chose B(rules), real=D
+  R2 ftb_0003 [健康] mine=B rules=D -> chose D(rules), real=C
+  R2 ftb_0016 [事业] mine=C rules=C -> chose C(agent), real=A
+  R2 ftb_0028 [财运] mine=C rules=A -> chose A(rules), real=D
+  R2 ftb_0002 [婚姻] mine=B rules=B -> chose B(agent), real=C
+  R2 ftb_0065 [子女] mine=A rules=B -> chose A(agent), real=B
+  R2 ftb_0019 [健康] mine=B rules=C -> chose C(rules), real=A
+  R2 ftb_0119 [家庭] mine=C rules=B -> chose C(agent), real=D
+  R2 ftb_0077 [婚姻] mine=B rules=B -> chose B(agent), real=C
+  R2 ftb_0048 [婚姻] mine=C rules=B -> chose C(agent), real=B
+  R2 ftb_0071 [家庭] mine=C rules=B -> chose C(agent), real=B
+  R3 ftb_0120 [财运] mine=C rules=D -> chose D(rules), real=C
+  R3 ftb_0139 [婚姻] mine=B rules=D -> chose B(agent), real=A
+  R3 ftb_0143 [婚姻] mine=A rules=D -> chose A(agent), real=D
+  R3 ftb_0157 [事业] mine=B rules=D -> chose B(agent), real=A
+  R3 ftb_0051 [婚姻] mine=B rules=A -> chose B(agent), real=D
+  R3 ftb_0024 [家庭] mine=D rules=C -> chose D(agent), real=C
+  R3 ftb_0115 [事业] mine=C rules=D -> chose C(agent), real=D
+  R3 ftb_0133 [学业] mine=A rules=A -> chose A(rules), real=D
+  R3 ftb_0066 [事业] mine=B rules=A -> chose B(agent), real=C
+  R3 ftb_0078 [事业] mine=A rules=A -> chose A(agent), real=B
+  R3 ftb_0098 [婚姻] mine=D rules=B -> chose D(agent), real=A
+  R3 ftb_0138 [事业] mine=C rules=C -> chose C(agent), real=B
+  R3 ftb_0008 [子女] mine=B rules=A -> chose B(agent), real=A
