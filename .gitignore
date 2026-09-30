@@ -2,3 +2,5 @@
 *.pyc
 *.tmp
 
+.idea/
+bench_info.txt
